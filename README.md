@@ -8,6 +8,7 @@ Includes:
 * Input Box(VB6 Style).
 * File Save/Open Dialog.
 * Directory Selection Dialog.
+* Hello
 
 The main idea behind this project is to enable WPF developers to make fully testable ViewModels even when they need Modal dialogs to 
 let the user choose a specific path through a modal dialog box.
